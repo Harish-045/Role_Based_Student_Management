@@ -40,7 +40,7 @@ PUT /students/{id} → Update student
 DELETE /students/{id} → Delete student
 GET /courses → Get courses
 📦 Setup Instructions
-git clone https://github.com/your-username/Student-Management-System.git
+git clone https://github.com/Harish-045/Student-Management-System.git
 cd Student-Management-System
 
 Configure MySQL in application.properties:
